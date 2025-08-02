@@ -4,71 +4,71 @@
   The dashboard consolidates HR data to track workforce metrics such as attrition rate, demographics, education background, job satisfaction, and salary-related factors.
 ________________________________________
 ## 2. Objectives
-&emsp;  •	To monitor overall employee attrition and its distribution.
-&emsp; •	To identify patterns and key reasons for attrition across different segments (age, education, salary, job role, etc.).
-&emsp;  •	To enable HR teams to make informed decisions for retention strategies.
-&emsp;  •	To create an interactive and visually intuitive dashboard for quick insights.
+&emsp;  •	To monitor overall employee attrition and its distribution.<br>
+&emsp; •	To identify patterns and key reasons for attrition across different segments (age, education, salary, job role, etc.).<br>
+&emsp;  •	To enable HR teams to make informed decisions for retention strategies.<br>
+&emsp;  •	To create an interactive and visually intuitive dashboard for quick insights.<br>
 ________________________________________
-## 3. Data Sources
-&emsp;  •	Primary Data Source: HR employee records (Excel/CSV/Database).
-&emsp;  •	Key Data Fields:
-&emsp;  &emsp;  o	Employee ID
-&emsp;  &emsp;  o	Age
-&emsp;  &emsp;  o	Gender
-&emsp;  &emsp;  o	Education Field
-&emsp;  &emsp;  o	Salary Slab
-&emsp;  &emsp;  o	Job Role
-&emsp;  &emsp;  o	Years at Company
-&emsp;  &emsp;  o	Job Satisfaction (1-4 scale)
-&emsp;  &emsp;  o	Attrition (Yes/No)
+## 3. Data Sources<br>
+&emsp;  •	Primary Data Source: HR employee records (Excel/CSV/Database).<br>
+&emsp;  •	Key Data Fields:<br>
+&emsp;  &emsp;  o	Employee ID<br>
+&emsp;  &emsp;  o	Age<br>
+&emsp;  &emsp;  o	Gender<br>
+&emsp;  &emsp;  o	Education Field<br>
+&emsp;  &emsp;  o	Salary Slab<br>
+&emsp;  &emsp;  o	Job Role<br>
+&emsp;  &emsp;  o	Years at Company<br>
+&emsp;  &emsp;  o	Job Satisfaction (1-4 scale)<br>
+&emsp;  &emsp;  o	Attrition (Yes/No)<br>
 ________________________________________
-## 4. Key Metrics and KPIs
-&emsp;  •	Count of Employees: Total number of employees in the dataset.
-&emsp;  •	Attrition Count: Number of employees who have left.
- &emsp; •	Attrition Rate (%):
-&emsp;     &emsp;     &emsp;     &emsp;     &emsp;    Attrition Rate= (Attrition Count / Total Employees) ×100
-&emsp;  •	Average Age: Mean age of employees.
-&emsp;  •	Average Salary: Mean salary.
-&emsp;  •	Average Years: Average tenure in years.
+## 4. Key Metrics and KPIs<br>
+&emsp;  •	Count of Employees: Total number of employees in the dataset.<br>
+&emsp;  •	Attrition Count: Number of employees who have left.<br>
+ &emsp; •	Attrition Rate (%):<br>
+&emsp;     &emsp;     &emsp;     &emsp;     &emsp;    Attrition Rate= (Attrition Count / Total Employees) ×100<br>
+&emsp;  •	Average Age: Mean age of employees.<br>
+&emsp;  •	Average Salary: Mean salary.<br>
+&emsp;  •	Average Years: Average tenure in years.<br>
 ________________________________________
-## 5. Dashboard Components
-&emsp;  a) Summary Cards
-&emsp; &emsp;   •	Count of Employees
-&emsp; &emsp;  •	Attrition Count
-&emsp; &emsp;   •	Attrition Rate
-&emsp;  &emsp; •	Average Age
-&emsp; &emsp;  •	Average Salary
-&emsp; &emsp;  •	Average Years at Company
-&emsp; b) Attrition by Education
-&emsp;&emsp;    •	Donut chart showing attrition distribution across education fields (Life Sciences, Medical, Marketing, etc.).
-&emsp;  c) Attrition by Age
-&emsp;&emsp;    •	Bar chart categorizing attrition by age groups (18–25, 26–35, 36–45, etc.).
-&emsp;  d) Attrition by Gender
-&emsp;&emsp;    •	Stacked bar chart comparing attrition between male and female employees.
-&emsp;  e) Attrition by Salary Slab
-&emsp;&emsp;    •	Horizontal bar chart showing attrition counts across salary categories (e.g., Up to 5k, 5k–10k, etc.).
-&emsp;&emsp;  f) Attrition by Years at Company
-&emsp;&emsp; &emsp;&emsp;   •	Line chart showing attrition trends against employee tenure.
-&emsp;&emsp;  g) Job Satisfaction vs Job Role
-&emsp;&emsp;  &emsp;&emsp;  •	Matrix visual displaying job satisfaction scores (1–4) for each job role.
-&emsp;&emsp;  h) Attrition by Job Role
-&emsp;&emsp; &emsp;&emsp;   •	Horizontal bar chart showing attrition count per job role.
+## 5. Dashboard Components<br>
+&emsp;  a) Summary Cards<br>
+&emsp; &emsp;   •	Count of Employees<br>
+&emsp; &emsp;  •	Attrition Count<br>
+&emsp; &emsp;   •	Attrition Rate<br>
+&emsp;  &emsp; •	Average Age<br>
+&emsp; &emsp;  •	Average Salary<br>
+&emsp; &emsp;  •	Average Years at Company<br>
+&emsp; b) Attrition by Education<br>
+&emsp;&emsp;    •	Donut chart showing attrition distribution across education fields (Life Sciences, Medical, Marketing, etc.).<br>
+&emsp;  c) Attrition by Age<br>
+&emsp;&emsp;    •	Bar chart categorizing attrition by age groups (18–25, 26–35, 36–45, etc.).<br>
+&emsp;  d) Attrition by Gender<br>
+&emsp;&emsp;    •	Stacked bar chart comparing attrition between male and female employees.<br>
+&emsp;  e) Attrition by Salary Slab<br>
+&emsp;&emsp;    •	Horizontal bar chart showing attrition counts across salary categories (e.g., Up to 5k, 5k–10k, etc.).<br>
+&emsp;&emsp;  f) Attrition by Years at Company<br>
+&emsp;&emsp; &emsp;&emsp;   •	Line chart showing attrition trends against employee tenure.<br>
+&emsp;&emsp;  g) Job Satisfaction vs Job Role<br>
+&emsp;&emsp;  &emsp;&emsp;  •	Matrix visual displaying job satisfaction scores (1–4) for each job role.<br>
+&emsp;&emsp;  h) Attrition by Job Role<br>
+&emsp;&emsp; &emsp;&emsp;   •	Horizontal bar chart showing attrition count per job role.<br>
 ________________________________________
-## 6. Interactivity
-&emsp;  •	Filters/Slicers:
-&emsp;   &emsp; o	Department selection (Human Resource, Research & Development, Sales)
-&emsp;   &emsp; o	Drill-down capability for more detailed analysis.
+## 6. Interactivity<br>
+&emsp;  •	Filters/Slicers:<br>
+&emsp;   &emsp; o	Department selection (Human Resource, Research & Development, Sales)<br>
+&emsp;   &emsp; o	Drill-down capability for more detailed analysis.<br>
 ________________________________________
-## 7. Tools & Technologies Used
-&emsp;  •	Power BI Desktop: For data modeling, visualization, and dashboard creation.
-&emsp; •	DAX (Data Analysis Expressions): For calculated columns and measures.
-&emsp;  •	Power Query: For data cleaning and transformation.
+## 7. Tools & Technologies Used<br>
+&emsp;  •	Power BI Desktop: For data modeling, visualization, and dashboard creation.<br>
+&emsp; •	DAX (Data Analysis Expressions): For calculated columns and measures.<br>
+&emsp;  •	Power Query: For data cleaning and transformation.<br>
 ________________________________________
-## 8. Insights and Observations
-&emsp;  •	Highest attrition is seen in the 26–35 age group.
-&emsp;  •	Employees with Life Sciences education have the highest attrition percentage.
-&emsp;  •	Lower salary slabs (up to 5k) show significantly higher attrition.
-&emsp;  •	Certain job roles (Laboratory Technician, Sales Executive) experience the most attrition.
+## 8. Insights and Observations<br>
+&emsp;  •	Highest attrition is seen in the 26–35 age group.<br>
+&emsp;  •	Employees with Life Sciences education have the highest attrition percentage.<br>
+&emsp;  •	Lower salary slabs (up to 5k) show significantly higher attrition.<br>
+&emsp;  •	Certain job roles (Laboratory Technician, Sales Executive) experience the most attrition.<br>
 ________________________________________
 ## 9. Future Enhancements<br>
 &emsp;  •	Integration with real-time HR databases.<br>
