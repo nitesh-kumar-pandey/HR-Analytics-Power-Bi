@@ -5,22 +5,22 @@
 ________________________________________
 ## 2. Objectives
 &emsp;  •	To monitor overall employee attrition and its distribution.<br>
-&emsp; •	To identify patterns and key reasons for attrition across different segments (age, education, salary, job role, etc.).<br>
+&emsp;  •	To identify patterns and key reasons for attrition across different segments (age, education, salary, job role, etc.).<br>
 &emsp;  •	To enable HR teams to make informed decisions for retention strategies.<br>
 &emsp;  •	To create an interactive and visually intuitive dashboard for quick insights.<br>
 ________________________________________
 ## 3. Data Sources<br>
 &emsp;  •	Primary Data Source: HR employee records (Excel/CSV/Database).<br>
 &emsp;  •	Key Data Fields:<br>
-&emsp;  &emsp;  o	Employee ID<br>
-&emsp;  &emsp;  o	Age<br>
-&emsp;  &emsp;  o	Gender<br>
-&emsp;  &emsp;  o	Education Field<br>
-&emsp;  &emsp;  o	Salary Slab<br>
-&emsp;  &emsp;  o	Job Role<br>
-&emsp;  &emsp;  o	Years at Company<br>
-&emsp;  &emsp;  o	Job Satisfaction (1-4 scale)<br>
-&emsp;  &emsp;  o	Attrition (Yes/No)<br>
+&emsp;  &emsp;  ➢	Employee ID<br>
+&emsp;  &emsp;  ➢	Age<br>
+&emsp;  &emsp;  ➢	Gender<br>
+&emsp;  &emsp;  ➢	Education Field<br>
+&emsp;  &emsp;  ➢	Salary Slab<br>
+&emsp;  &emsp;  ➢	Job Role<br>
+&emsp;  &emsp;  ➢	Years at Company<br>
+&emsp;  &emsp;  ➢	Job Satisfaction (1-4 scale)<br>
+&emsp;  &emsp;  ➢	Attrition (Yes/No)<br>
 ________________________________________
 ## 4. Key Metrics and KPIs<br>
 &emsp;  •	Count of Employees: Total number of employees in the dataset.<br>
@@ -56,8 +56,8 @@ ________________________________________
 ________________________________________
 ## 6. Interactivity<br>
 &emsp;  •	Filters/Slicers:<br>
-&emsp;   &emsp; o	Department selection (Human Resource, Research & Development, Sales)<br>
-&emsp;   &emsp; o	Drill-down capability for more detailed analysis.<br>
+&emsp;   &emsp; ➢	Department selection (Human Resource, Research & Development, Sales)<br>
+&emsp;   &emsp; ➢	Drill-down capability for more detailed analysis.<br>
 ________________________________________
 ## 7. Tools & Technologies Used<br>
 &emsp;  •	Power BI Desktop: For data modeling, visualization, and dashboard creation.<br>
